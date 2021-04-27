@@ -2,4 +2,12 @@
   width: 730px;
   margin-left: 64px;
   display: flex;
+  align-items: center;
+  z-index:2;
+}
+.header__title_heading {
+  font-size: 102px;
+  font-weight: bold;
+  line-height: 96px;
+  z-index: 2;
 }
