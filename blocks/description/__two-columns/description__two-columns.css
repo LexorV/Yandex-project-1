@@ -1,8 +1,8 @@
 .description__two-columns {
   display: flex;
-  justify-content: space-around;
   width: 80%;
   min-width: 784px;
+  justify-content: space-between;
 }
 .description__two-columns_brief {
   width: 175px;
@@ -10,8 +10,25 @@
 .description__two-columns_brief-heading {
   font-size: 18px;
   font-weight: normal;
+  line-height: 1.2;
+  color: #2f80ed;
 }
-.description__two-columns_paragraph {
-  width: 80%;
+.description__two-columns_paragraph{
   margin-bottom: 30px;
+  line-height: 34px;
+  font-size: 24px;
 }
+.description__two-columns_paragraph:last-of-type{
+  margin-bottom: 0;
+}
+.description__two-colums_excretion {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.desctiption__two-columns_main-text {
+  width: 80%;
+}
+
+
