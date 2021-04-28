@@ -1,0 +1,17 @@
+.description__two-columns {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  min-width: 784px;
+}
+.description__two-columns_brief {
+  width: 175px;
+}
+.description__two-columns_brief-heading {
+  font-size: 18px;
+  font-weight: normal;
+}
+.description__two-columns_paragraph {
+  width: 80%;
+  margin-bottom: 30px;
+}
