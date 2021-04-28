@@ -1,14 +1,12 @@
 .header__subtitle {
   width: 388px;
   height: auto;
-  position: absolute;
+  position: relative;
   left: 64px;
   bottom: 30px;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
   z-index: 2;
-}
-.header__subtitle_link {
-  text-decoration: none;
+
 }
