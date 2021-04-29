@@ -2,4 +2,52 @@
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+  
+}
+.techniques__section-title {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+}
+.techniques__section-subtitle {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+.techniques__cards {
+  width: 920px;
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+.technoques__cards_item {
+  width: 240px;
+}
+.technoques__cards_image {
+  margin: 80px 40px 43px 40px;
+  
+}
+.technoques__cards_image-in  {
+  border-radius: 180px;
+  height: 160px;
+  width: 160px;
+}
+.technoques__cards_title {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.technoques__cards_description {
+  line-height: 23px;
+  font-size: 18px;
+  text-align: center;
 }
