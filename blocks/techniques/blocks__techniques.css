@@ -29,31 +29,31 @@
   flex-wrap: wrap;
   align-self: center;
 }
-.technoques__cards_item {
+.cards__item {
   width: 240px;
   margin-right: 100px;
 }
-.technoques__cards_item:nth-child(3n) {
+.cards__item:nth-child(3n) {
   margin-right: 0;
 }
-.technoques__cards_image {
+.cards__image {
   margin: 80px 40px 43px 40px;
-  
-}
-.technoques__cards_image-in  {
   border-radius: 180px;
   height: 160px;
   width: 160px;
+
+  
 }
-.technoques__cards_title {
+.cards__title {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
   margin-bottom: 16px;
   text-align: center;
 }
-.technoques__cards_description {
+.cards__description {
   line-height: 23px;
   font-size: 18px;
   text-align: center;
+  margin: 0;
 }

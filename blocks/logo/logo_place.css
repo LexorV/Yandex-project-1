@@ -1,10 +1,11 @@
-.logo_place_header, .logo_place_footer  {
+.logo  {
   width: 183px;
   height: 32px;
   background-image: url(/blocks/logo/logo_place_header.svg);
 }
-.logo_place_header {
+.header__place-header {
   position: absolute;
   top: 30px;
   left: 64px;
 }
+
