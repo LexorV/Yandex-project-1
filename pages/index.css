@@ -1,3 +1,4 @@
+@import url('/blocks/root/root.css');
 @import url('../blocks/header/__link/header__link.css');
 @import url('../blocks/header/__tilte/header__title.css');
 @import url('../blocks/header/__subtitle/header__subtitle.css');
@@ -15,9 +16,18 @@
 @import url('/blocks/digits/section-title.css');
 @import url('/blocks/kaufman/kaufman.css');
 @import url('/blocks/kaufman/kaufman__section-title.css');
-@import url('/blocks/kaufman/__table/kaufman__table.css');
+@import url('/blocks/kaufman/__table/table.css');
 @import url('/blocks/techniques/section-subtitle.css');
 @import url('/blocks/techniques/section-title.css');
-@import url('/blocks/kaufman/_theme/theme-dark.css');
 @import url('/blocks/kaufman/section-subtitle.css');
 @import url('/blocks/kaufman/section-title.css');
+@import url('/blocks/kaufman/_theme/cell__heading_theme_dark.css');
+@import url('/blocks/kaufman/_theme/cell__text_theme_dark.css');
+@import url('/blocks/kaufman/_theme/section-subtitle_theme_dark.css');
+@import url('/blocks/kaufman/_theme/section-title_theme_dark.css');
+@import url('/blocks/kaufman/_theme/table__cell_theme_dark.css');
+@import url('/blocks/kaufman/_theme/kaufman_theme_dark.css');
+@import url('/blocks/resources/section-subtitle.css');
+@import url('/blocks/resources/section-title.css');
+@import url('/blocks/resources/resources.css');
+@import url('/blocks/footer/footer.css');
