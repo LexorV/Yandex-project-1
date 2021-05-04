@@ -1,6 +1,4 @@
 .digits {
-  margin-left: auto;
-  margin-right: auto;
   display: flex;
   flex-direction: column;
   margin-top: 100px;

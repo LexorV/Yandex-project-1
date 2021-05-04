@@ -1,0 +1,16 @@
+.video {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+}
+.video__iframes {
+  display: flex;
+  justify-content: center;
+}
+.video__iframes_size { 
+  width: 515px;
+  height: 316px;
+}
+.video__iframes_size:nth-child(1) {
+margin-right: 20px;
+}
