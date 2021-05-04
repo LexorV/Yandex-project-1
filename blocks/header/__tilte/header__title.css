@@ -3,7 +3,7 @@
   margin-left: 64px;
   display: flex;
   align-items: center;
-  z-index:2;
+  z-index:3;
   font-size: 102px;
   font-weight: bold;
   line-height: 96px;
@@ -12,5 +12,5 @@
   font-size: 102px;
   font-weight: bold;
   line-height: 96px;
-  z-index: 2;
+  z-index: 3;
 }

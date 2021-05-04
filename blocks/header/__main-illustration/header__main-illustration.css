@@ -1,7 +1,7 @@
 .header-main-illustration {
   width: 765px;
   height: 608px;
-  z-index: 0;
+  z-index: 2;
   position: absolute;
   right: 0;
   bottom: 0;

@@ -3,6 +3,8 @@
   width: 80%;
   min-width: 784px;
   justify-content: space-between;
+  margin-bottom: 100px;
+  margin-top: 100px;
 }
 .two-columns__brief {
   width: 175px;
@@ -22,6 +24,10 @@
   line-height: 34px;
   font-size: 24px;
   margin: 0;
+}
+.two-columns__paragraph_center {
+margin-top: 30px;
+margin-bottom: 30px;
 }
 .two-columns__paragraph:last-of-type{
   margin-bottom: 0;
