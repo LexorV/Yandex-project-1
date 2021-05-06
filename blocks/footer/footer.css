@@ -44,6 +44,9 @@
   font-size: 18px;
   padding-bottom: 10px;
 }
+.footer__links:hover {
+  opacity: 0.50;
+}
 .footer__links:nth-child(3){
   padding-bottom:0;
 }
@@ -53,6 +56,7 @@
 .footer__img-links {
   width: 16px;
   height: 16px;
+  vertical-align: middle;
 }
 .footer__columns_content_info{
   
