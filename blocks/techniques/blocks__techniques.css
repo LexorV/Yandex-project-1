@@ -5,24 +5,6 @@
   display: flex;
   flex-direction: column; 
 }
-.techniques__section-title {
-  width: 60%;
-  margin-bottom: 20px;
-  line-height: 1.15;
-  font-size: 60px;
-  font-weight: bold;
-  align-self: center;
-  text-align: center;
-  margin-top: 0;
-}
-.techniques__section-subtitle {
-  width: 60%;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  align-self: center;
-  text-align: center;
-}
 .techniques__cards {
   width: 920px;
   display: flex;
@@ -41,8 +23,6 @@
   border-radius: 180px;
   height: 160px;
   width: 160px;
-
-  
 }
 .cards__title {
   line-height: 1.15;

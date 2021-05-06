@@ -6,11 +6,11 @@
   position: absolute;
   top: 30px;
   left: 64px;
-  background-image: url('/blocks/logo/logo_place_header.svg');
+  background-image: url('/blocks/common-blocks/logo/logo_place_header.svg');
 }
 
 .footer__place-footer {
-  background-image: url('/blocks/logo/logo_place_footer.svg');
+  background-image: url('/blocks/common-blocks/logo/logo_place_footer.svg');
   width: 183px;
   height: 32px;
 }
