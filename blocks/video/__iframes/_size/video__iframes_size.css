@@ -1,0 +1,7 @@
+.video__iframes_size { 
+  width: 515px;
+  height: 316px;
+}
+.video__iframes_size:nth-child(1) {
+margin-right: 20px;
+}

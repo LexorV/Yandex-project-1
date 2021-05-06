@@ -4,6 +4,13 @@
 @import url('/blocks/common-blocks/rotation/rotation.css');
 @import url('/blocks/common-blocks/section-subtitle/section-subtitle.css');
 @import url('/blocks/common-blocks/section-title/section-title.css');
+/*two-columns*/
+@import url('/blocks/common-blocks/two-columns/two-columns.css');
+@import url('/blocks/common-blocks/two-columns/__brief/two-columns__brief.css');
+@import url('/blocks/common-blocks/two-columns/__main-text/two-columns__main-text.css');
+@import url('/blocks/common-blocks/two-columns/__paragraph/two-columns__paragraph.css');
+@import url('/blocks/common-blocks/two-columns/__span-accent/two-colums__span-accent.css');
+@import url('/blocks/common-blocks/two-columns/__paragraph/_center/two-columns__paragraph_center.css');
 /*section header*/
 @import url('../blocks/header/__link/header__link.css');
 @import url('../blocks/header/__tilte/header__title.css');
@@ -15,12 +22,6 @@
 @import url('../blocks/header/header.css');
 /* section description*/
 @import url('../blocks/description/description.css');
-@import url('../blocks/description/__two-columns/description__two-columns.css');
-@import url('/blocks/description/two-columns/__brief/two-columns__brief.css');
-@import url('/blocks/description/two-columns/__main-text/two-columns__main-text.css');
-@import url('/blocks/description/two-columns/__paragraph/two-columns__paragraph.css');
-@import url('/blocks/description/two-columns/__paragraph/_center/two-columns__paragraph_center.css');
-@import url('/blocks/description/two-columns/__span-accent/two-colums__span-accent.css');
 /*section tehniques*/
 @import url('/blocks/techniques/blocks__techniques.css');
 @import url('/blocks/techniques/cards/__description/cards__description.css');
@@ -30,6 +31,8 @@
 @import url('/blocks/techniques/cards/cards.css');
 /*section video*/
 @import url('/blocks/video/video.css');
+@import url('/blocks/video/__iframes/video__iframes.css');
+@import url('/blocks/video/__iframes/_size/video__iframes_size.css');
 /*section oakley*/
 @import url('/blocks/oakley/oakley.css');
 /*section feynman*/
